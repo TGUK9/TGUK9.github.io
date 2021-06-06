@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+
+# Name of website
+title: Sean Lister Blog
+
+# Your name to show in the footer
+author: Sean Lister
