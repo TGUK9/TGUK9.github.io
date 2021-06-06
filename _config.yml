@@ -1,7 +1,7 @@
 title: "Sean Lister"
 description: "Personal Blog"
 author:
-  name: "SomeHacker"
+  name: "Sean"
   email: "-"
   url: "https://www.seanlister.co.uk"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "TGUK9"
-year : "2020"
+owner : "Sean Lister"
+year : "2021"
